@@ -49,13 +49,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prim1tive&theme=react&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prim1tive&theme=react&hide_border=false&layout=compact)
-
----
-
-## 🧠 Philosophy
-> “If it can be abused, it will be abused.”
-
----
-
-## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
