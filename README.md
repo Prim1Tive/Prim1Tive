@@ -64,6 +64,10 @@ Data extraction tool for targeting structured content in web apps
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Prim1Tive.png)
 
+![Personal](https://michaelazoulay.com)
+
+![Project](https://localtool.pages.dev)
+
 ---
 
 ## 📊 Stats (Because Why Not)
@@ -80,5 +84,3 @@ Data extraction tool for targeting structured content in web apps
 - “Every feature is an attack surface.”
 - “If input exists, exploitation exists.”
 
-![](https://michaelazoulay.com)
-![](https://localtool.pages.dev)
