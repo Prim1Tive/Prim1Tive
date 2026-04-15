@@ -64,9 +64,9 @@ Data extraction tool for targeting structured content in web apps
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Prim1Tive.png)
 
-![Personal](https://michaelazoulay.com)
+[![Personal](https://michaelazoulay.com)]
 
-![Project](https://localtool.pages.dev)
+[![Project](https://localtool.pages.dev)]
 
 ---
 
