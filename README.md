@@ -80,11 +80,5 @@ Data extraction tool for targeting structured content in web apps
 - “Every feature is an attack surface.”
 - “If input exists, exploitation exists.”
 
----
-
-## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
-
----
-
-![](https://visitcount.itsvg.in/api?id=prim1tive&icon=0&color=0)
+![](https://michaelazoulay.com)
+![](https://localtool.pages.dev)
